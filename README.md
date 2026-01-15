@@ -46,5 +46,10 @@ SITE URL: https://youtube-g0cjgdchfjhebpbq.centralindia-01.azurewebsites.net/
 
 DEPLOYING APPLICATION USING AZURE PIPELINE RELEASES
 
+
+CI BUILD
+<img width="907" height="888" alt="image" src="https://github.com/user-attachments/assets/dfe89e2a-9593-41cd-8e9f-6b27e0fd8586" />
+
+Continues Deployment
 <img width="1522" height="705" alt="image" src="https://github.com/user-attachments/assets/524cdcac-2478-4b51-848f-de50c8db5069" />
 
