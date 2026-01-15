@@ -42,7 +42,7 @@ YAML File for project
 
 https://github.com/saitejadst/youtube_clone/blob/main/YAML
 
-SITE URL: https://youtube-staging-ahacc4h3ebapchcf.centralindia-01.azurewebsites.net/
+SITE URL: https://youtube-g0cjgdchfjhebpbq.centralindia-01.azurewebsites.net/
 
 DEPLOYING APPLICATION USING AZURE PIPELINE RELEASES
 
