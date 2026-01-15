@@ -41,3 +41,10 @@ Here is a simplified explanation of the pipeline in 5 lines:
 YAML File for project
 
 https://github.com/saitejadst/youtube_clone/blob/main/YAML
+
+SITE URL: https://youtube-staging-ahacc4h3ebapchcf.centralindia-01.azurewebsites.net/
+
+DEPLOYING APPLICATION USING AZURE PIPELINE RELEASES
+
+<img width="1522" height="705" alt="image" src="https://github.com/user-attachments/assets/524cdcac-2478-4b51-848f-de50c8db5069" />
+
